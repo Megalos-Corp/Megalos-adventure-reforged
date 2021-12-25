@@ -4,78 +4,78 @@ Modpack Mégalos Adventure 1.16.5 (beta test) version 0.6
 
 Liste des Mods:
 
-AI-Improvements-1.16.2-0.3.0.jar
-alexsmobs-1.12.1.jar
-appleskin-forge-mc1.16.x-2.2.0.jar
-Aquaculture-1.16.5-2.1.21.jar
-architectury-1.24.35-forge.jar
-astralsorcery-1.16-1.16.5-1.13.12.jar
-betterendforge-1.16.5-1.6.3.jar
-abnormals_core-1.16.5-3.3.0.jar
-Botania-1.16.5-419.jar
-Bountiful-1.16.4-3.3.1.jar
-cavebiomeapi-1.16.5-1.4.2.jar
-cavesandcliffs-1.16.5-7.1.1.jar
-Chisel-MC1.16.5-2.0.1-alpha.4.jar
-Chunk Pregenerator-V1.16-3.2.0.jar
-citadel-1.8.1-1.16.5.jar
-Clumps-6.0.0.27.jar
-comforts-forge-1.16.5-4.0.1.3.jar
-CTM-MC1.16.1-1.1.2.6.jar
-Controlling-7.0.0.27.jar
-create-mc1.16.5_v0.3.2f.jar
-Cucumber-1.16.5-4.1.12.jar
-curios-forge-1.16.5-4.0.5.3.jar
-dungeons_mobs-1.16.5-1.0.10.jar
-dungeons_plus-1.16.5-1.1.5.jar
-fairylights-4.0.5-1.16.5.jar
-FarmersDelight-1.16.5-0.5.1.jar
-farmersdelightintegrations-1.16.5-1.2.jar
-farmerstea-1.16.5-1.3.jar
-FastFurnace-1.16.4-4.4.0.jar
-FastWorkbench-1.16.4-4.5.1.jar
-ferritecore-2.1.0-forge.jar
-flywheel-1.16-0.2.4.jar
-Fruitful-1.16.5-2.1.0.jar
-ftb-backups-2.1.2.2.jar
-ftb-chunks-forge-1605.3.2-build.81.jar
-ftb-library-forge-1605.3.4-build.83.jar
-ftb-teams-forge-1605.2.3-build.38.jar
-globaldataandresourcepacks-1.16.4-1.7.4.jar
-gravestone-1.16.5-1.0.6.jar
-HealthOverlay-1.16.5-3.0.1.jar
-honeyexpansion-1.0.jar
-ironchest-1.16.5-11.2.13.jar
-ironfurnaces-1.16.5-2.7.7.jar
-Jade-1.16.4-2.8.0.jar
-jei-1.16.5-7.7.1.134.jar
-kotlinforforge-1.15.1-obf.jar
-kubejs-forge-1605.3.18-build.154.jar
-Mantle-1.16.5-1.6.127.jar
-modnametooltip_1.16.2-1.15.0.jar
-moreoverlays-1.18.15-mc1.16.5.jar
-cfm-7.0.0pre22-1.16.3.jar
-MysticalAgriculture-1.16.5-4.2.4.jar
-observerlib-1.16.5-1.5.3.jar
-PackMenu-1.16.5-2.5.0.jar
-Patchouli-1.16.4-53.2.jar
-Placebo-1.16.5-4.6.0.jar
-polymorph-forge-1.16.5-0.28.jar
-randompatches-2.4.4-forge.jar
-rhino-forge-1605.1.5-build.73.jar
-selene-1.16.5-1.9.0.jar
-shutupexperimentalsettings-1.0.3.jar
-simplytea-1.16.5-2.4.0.jar
-sophisticatedbackpacks-1.16.5-3.11.1.390.jar
-structure_gel-1.16.5-1.7.8.jar
-supplementaries-1.16.5-0.17.8.jar
-TConstruct-1.16.5-3.2.0.290.jar
-Toast-Control-1.16.4-4.3.1.jar
-Waystones_1.16.5-7.6.4.jar
-xptome-1.16.5-v2.1.2.jar
-YungsApi-1.16.4-Forge-13.jar
-BetterCaves-Forge-1.16.4-1.1.2.jar
-BetterDungeons-1.16.4-1.2.1.jar
-BetterMineshafts-Forge-1.16.4-2.0.4.jar
-BetterStrongholds-1.16.4-1.2.1.jar
-YungsExtras-Forge-1.16.4-1.0.jar
+- AI-Improvements-1.16.2-0.3.0.jar
+- alexsmobs-1.12.1.jar
+- appleskin-forge-mc1.16.x-2.2.0.jar
+- Aquaculture-1.16.5-2.1.21.jar
+- architectury-1.24.35-forge.jar
+- astralsorcery-1.16-1.16.5-1.13.12.jar
+- betterendforge-1.16.5-1.6.3.jar
+- abnormals_core-1.16.5-3.3.0.jar
+- Botania-1.16.5-419.jar
+- Bountiful-1.16.4-3.3.1.jar
+- cavebiomeapi-1.16.5-1.4.2.jar
+- cavesandcliffs-1.16.5-7.1.1.jar
+- Chisel-MC1.16.5-2.0.1-alpha.4.jar
+- Chunk Pregenerator-V1.16-3.2.0.jar
+- citadel-1.8.1-1.16.5.jar
+- Clumps-6.0.0.27.jar
+- comforts-forge-1.16.5-4.0.1.3.jar
+- CTM-MC1.16.1-1.1.2.6.jar
+- Controlling-7.0.0.27.jar
+- create-mc1.16.5_v0.3.2f.jar
+- Cucumber-1.16.5-4.1.12.jar
+- curios-forge-1.16.5-4.0.5.3.jar
+- dungeons_mobs-1.16.5-1.0.10.jar
+- dungeons_plus-1.16.5-1.1.5.jar
+- fairylights-4.0.5-1.16.5.jar
+- FarmersDelight-1.16.5-0.5.1.jar
+- farmersdelightintegrations-1.16.5-1.2.jar
+- farmerstea-1.16.5-1.3.jar
+- FastFurnace-1.16.4-4.4.0.jar
+- FastWorkbench-1.16.4-4.5.1.jar
+- ferritecore-2.1.0-forge.jar
+- flywheel-1.16-0.2.4.jar
+- Fruitful-1.16.5-2.1.0.jar
+- ftb-backups-2.1.2.2.jar
+- ftb-chunks-forge-1605.3.2-build.81.jar
+- ftb-library-forge-1605.3.4-build.83.jar
+- ftb-teams-forge-1605.2.3-build.38.jar
+- globaldataandresourcepacks-1.16.4-1.7.4.jar
+- gravestone-1.16.5-1.0.6.jar
+- HealthOverlay-1.16.5-3.0.1.jar
+- honeyexpansion-1.0.jar
+- ironchest-1.16.5-11.2.13.jar
+- ironfurnaces-1.16.5-2.7.7.jar
+- Jade-1.16.4-2.8.0.jar
+- jei-1.16.5-7.7.1.134.jar
+- kotlinforforge-1.15.1-obf.jar
+- kubejs-forge-1605.3.18-build.154.jar
+- Mantle-1.16.5-1.6.127.jar
+- modnametooltip_1.16.2-1.15.0.jar
+- moreoverlays-1.18.15-mc1.16.5.jar
+- cfm-7.0.0pre22-1.16.3.jar
+- MysticalAgriculture-1.16.5-4.2.4.jar
+- observerlib-1.16.5-1.5.3.jar
+- PackMenu-1.16.5-2.5.0.jar
+- Patchouli-1.16.4-53.2.jar
+- Placebo-1.16.5-4.6.0.jar
+- polymorph-forge-1.16.5-0.28.jar
+- randompatches-2.4.4-forge.jar
+- rhino-forge-1605.1.5-build.73.jar
+- selene-1.16.5-1.9.0.jar
+- shutupexperimentalsettings-1.0.3.jar
+- simplytea-1.16.5-2.4.0.jar
+- sophisticatedbackpacks-1.16.5-3.11.1.390.jar
+- structure_gel-1.16.5-1.7.8.jar
+- supplementaries-1.16.5-0.17.8.jar
+- TConstruct-1.16.5-3.2.0.290.jar
+- Toast-Control-1.16.4-4.3.1.jar
+- Waystones_1.16.5-7.6.4.jar
+- xptome-1.16.5-v2.1.2.jar
+- YungsApi-1.16.4-Forge-13.jar
+- BetterCaves-Forge-1.16.4-1.1.2.jar
+- BetterDungeons-1.16.4-1.2.1.jar
+- BetterMineshafts-Forge-1.16.4-2.0.4.jar
+- BetterStrongholds-1.16.4-1.2.1.jar
+- YungsExtras-Forge-1.16.4-1.0.jar
