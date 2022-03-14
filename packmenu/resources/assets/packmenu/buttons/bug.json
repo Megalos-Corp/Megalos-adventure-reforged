@@ -1,0 +1,19 @@
+{
+	"x": -78,
+	"y": 10,
+	"width": 70,
+	"height": 22,
+	"texture": "packmenu:textures/gui/bug.png",
+	"u": 0,
+	"v": 0,
+	"hoverU": 0,
+	"hoverV": 22,
+	"texWidth": 70,
+	"texHeight": 44,
+	"widgets": false,
+	"langKey": "menu.bug",
+	"action": "OPEN_URL",
+	"data": "https://github.com/Megalos-Corp/Megalos-Adventure-2/issues/new",
+	"anchor": "TOP_RIGHT",
+	"textXOffset": -10
+}

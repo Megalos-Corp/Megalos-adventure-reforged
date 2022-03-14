@@ -1,0 +1,13 @@
+{
+  "type": "create:splashing",
+  "ingredients": [
+    {
+      "item": "create:wheat_flour"
+    }
+  ],
+  "results": [
+    {
+      "item": "farmersdelight:wheat_dough"
+    }
+  ]
+}

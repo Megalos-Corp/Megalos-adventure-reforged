@@ -1,0 +1,16 @@
+{
+	"x": -100,
+	"y": 50,
+	"width": 200,
+	"height": 22,
+	"texture": "packmenu:textures/gui/alt_ui.png",
+	"u": 0,
+	"v": 0,
+	"hoverU": 0,
+	"hoverV": 22,
+	"texWidth": 200,
+	"texHeight": 44,
+	"langKey": "menu.multiplayer",
+	"action": "OPEN_GUI",
+	"data": "MULTIPLAYER"
+}

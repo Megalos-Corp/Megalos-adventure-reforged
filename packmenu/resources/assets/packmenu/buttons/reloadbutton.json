@@ -1,4 +1,4 @@
-/*{
+{
 	"x": -124,
 	"y": 0,
 	"width": 20,
@@ -11,4 +11,4 @@
 	"texHeight": 40,
 	"texture": "packmenu:textures/gui/reload.png",
 	"action": "RELOAD"
-}*/
+}

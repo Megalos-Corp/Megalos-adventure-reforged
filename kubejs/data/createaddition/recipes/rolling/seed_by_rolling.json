@@ -1,0 +1,16 @@
+{
+	"type":"createaddition:rolling",
+	"input": {
+		"item": "farmersdelight:rice_panicle"
+	},
+	"result":  [
+	{
+			"item": "farmersdelight:rice",
+		"count": 2
+	},
+	{
+		"item": "farmersdelight:straw",
+		"count": 1
+	}
+  ]	
+}

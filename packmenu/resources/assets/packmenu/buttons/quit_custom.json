@@ -1,0 +1,15 @@
+{
+	"x": 78,
+	"y": 80,
+	"width": 22,
+	"height": 22,
+	"texture": "packmenu:textures/gui/quit.png",
+	"u": 0,
+	"v": 0,
+	"hoverU": 0,
+	"hoverV": 22,
+	"texWidth": 22,
+	"texHeight": 44,
+	"widgets": false,
+	"action": "QUIT"
+}

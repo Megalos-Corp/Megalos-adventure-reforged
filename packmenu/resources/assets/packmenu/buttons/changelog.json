@@ -1,0 +1,18 @@
+{
+	"x": -30,
+	"y": 40,
+	"width": 22,
+	"height": 22,
+	"texture": "packmenu:textures/gui/wiki.png",
+	"u": 0,
+	"v": 0,
+	"hoverU": 0,
+	"hoverV": 22,
+	"texWidth": 22,
+	"texHeight": 44,
+	"widgets": false,
+	"action": "OPEN_URL",
+	"data": "https://gist.github.com/N3siOS/2a598e8121d6a4cdd219434be1cc4b7f",
+	"anchor": "TOP_RIGHT",
+	"textXOffset": 5
+}
