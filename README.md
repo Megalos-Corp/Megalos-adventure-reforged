@@ -1,81 +1,113 @@
 # Modpack Mégalos Adventure
 
-Modpack Mégalos Adventure 1.16.5 (beta test) version 0.6
+Modpack Mégalos Adventure Reforged 1.16.5 (alpaha test)
 
 Liste des Mods:
 
-- AI-Improvements-1.16.2-0.3.0.jar
-- alexsmobs-1.12.1.jar
-- appleskin-forge-mc1.16.x-2.2.0.jar
-- Aquaculture-1.16.5-2.1.21.jar
-- architectury-1.24.35-forge.jar
-- astralsorcery-1.16-1.16.5-1.13.12.jar
-- betterendforge-1.16.5-1.6.3.jar
-- abnormals_core-1.16.5-3.3.0.jar
-- Botania-1.16.5-419.jar
-- Bountiful-1.16.4-3.3.1.jar
-- cavebiomeapi-1.16.5-1.4.2.jar
-- cavesandcliffs-1.16.5-7.1.1.jar
-- Chisel-MC1.16.5-2.0.1-alpha.4.jar
-- Chunk Pregenerator-V1.16-3.2.0.jar
-- citadel-1.8.1-1.16.5.jar
-- Clumps-6.0.0.27.jar
-- comforts-forge-1.16.5-4.0.1.3.jar
-- CTM-MC1.16.1-1.1.2.6.jar
-- Controlling-7.0.0.27.jar
-- create-mc1.16.5_v0.3.2f.jar
-- Cucumber-1.16.5-4.1.12.jar
-- curios-forge-1.16.5-4.0.5.3.jar
-- dungeons_mobs-1.16.5-1.0.10.jar
-- dungeons_plus-1.16.5-1.1.5.jar
-- fairylights-4.0.5-1.16.5.jar
-- FarmersDelight-1.16.5-0.5.1.jar
-- farmersdelightintegrations-1.16.5-1.2.jar
-- farmerstea-1.16.5-1.3.jar
-- FastFurnace-1.16.4-4.4.0.jar
-- FastWorkbench-1.16.4-4.5.1.jar
-- ferritecore-2.1.0-forge.jar
-- flywheel-1.16-0.2.4.jar
-- Fruitful-1.16.5-2.1.0.jar
-- ftb-backups-2.1.2.2.jar
-- ftb-chunks-forge-1605.3.2-build.81.jar
-- ftb-library-forge-1605.3.4-build.83.jar
-- ftb-teams-forge-1605.2.3-build.38.jar
-- globaldataandresourcepacks-1.16.4-1.7.4.jar
-- gravestone-1.16.5-1.0.6.jar
-- HealthOverlay-1.16.5-3.0.1.jar
-- honeyexpansion-1.0.jar
-- ironchest-1.16.5-11.2.13.jar
-- ironfurnaces-1.16.5-2.7.7.jar
-- Jade-1.16.4-2.8.0.jar
-- jei-1.16.5-7.7.1.134.jar
-- kotlinforforge-1.15.1-obf.jar
-- kubejs-forge-1605.3.18-build.154.jar
-- Mantle-1.16.5-1.6.127.jar
-- modnametooltip_1.16.2-1.15.0.jar
-- moreoverlays-1.18.15-mc1.16.5.jar
-- cfm-7.0.0pre22-1.16.3.jar
-- MysticalAgriculture-1.16.5-4.2.4.jar
-- observerlib-1.16.5-1.5.3.jar
-- PackMenu-1.16.5-2.5.0.jar
-- Patchouli-1.16.4-53.2.jar
-- Placebo-1.16.5-4.6.0.jar
-- polymorph-forge-1.16.5-0.28.jar
-- randompatches-2.4.4-forge.jar
-- rhino-forge-1605.1.5-build.73.jar
-- selene-1.16.5-1.9.0.jar
-- shutupexperimentalsettings-1.0.3.jar
-- simplytea-1.16.5-2.4.0.jar
-- sophisticatedbackpacks-1.16.5-3.11.1.390.jar
-- structure_gel-1.16.5-1.7.8.jar
-- supplementaries-1.16.5-0.17.8.jar
-- TConstruct-1.16.5-3.2.0.290.jar
-- Toast-Control-1.16.4-4.3.1.jar
-- Waystones_1.16.5-7.6.4.jar
-- xptome-1.16.5-v2.1.2.jar
-- YungsApi-1.16.4-Forge-13.jar
-- BetterCaves-Forge-1.16.4-1.1.2.jar
-- BetterDungeons-1.16.4-1.2.1.jar
-- BetterMineshafts-Forge-1.16.4-2.0.4.jar
-- BetterStrongholds-1.16.4-1.2.1.jar
-- YungsExtras-Forge-1.16.4-1.0.jar
+    Create: Steam Powered (by yuesha_yc)
+    Just Enough Items (JEI) (by mezz)
+    Bayou Blues (Forge) (by team_aurora_modding)
+    Toast Control (by Shadows_of_Fire)
+    Druidcraft (by VulpTheHorseDog)
+    Feder's Scarecrows (by itayfeder)
+    Create Plus (by Robocraft999)
+    Nether's Delight (by lumpazl)
+    Create Crafts & Additions (by MRHminer)
+    RandomPatches (Forge) (by TheRandomLabs)
+    Bamboo Blocks (by TeamAbnormals)
+    Carry On (by Tschipp)
+    PackMenu (by Shadows_of_Fire)
+    Savage & Ravage (by TeamAbnormals)
+    Upgrade Aquatic (by TeamAbnormals)
+    AppleSkin (by squeek502)
+    Architectury API (Forge) (by shedaniel)
+    Create Stuff Additions (by Furti_Two)
+    Farmer's Delight Cookbook Addon [0.4 is the last update] (by dalumma)
+    Dungeon Crawl (by xiroc_)
+    Magnesium (by someoneelsewastaken)
+    GraveStone Mod (by henkelmax)
+    Waystones (by BlayTheNinth)
+    AI Improvements (by QueenOfMissiles)
+    FastSuite (by Shadows_of_Fire)
+    Allurement (by TeamAbnormals)
+    Curios Quark Oddities Backpack (by 6LeoMC)
+    Sapience (by the_infamous_1)
+    Abnormals Delight (by TeamAbnormals)
+    Jade 🔍 (by Snownee_)
+    Atmospheric (by TeamAbnormals)
+    Environmental (by TeamAbnormals)
+    Citadel (by sbom_xela)
+    Just Enough Keg (by marblegatekeeper)
+    AstikorCarts [Horse Carts] (by MennoMax)
+    More Create Stuffs (by JerryLu086)
+    Drink Beer (Forge) (by Lekavar)
+    The Endergetic Expansion (by TeamAbnormals)
+    YUNG's Bridges (Forge) (by YUNGNICKYOUNG)
+    Create (by simibubi)
+    Dynamic Surroundings (by OreCruncher)
+    Cultural Delights (by NCP_Bails)
+    Farmer's Delight Compats (by burritoeatinghamster)
+    Patchouli (by Vazkii)
+    YUNG's Better Dungeons (Forge) (by YUNGNICKYOUNG)
+    Save My Stronghold! (Forge) (by YUNGNICKYOUNG)
+    Tough As Nails (by TheAdubbz)
+    Farmer's Tea (by burritoeatinghamster)
+    KubeJS (Forge) (by LatvianModder)
+    Undead Expansion (by Fredzik2)
+    Orcinus's Caves (by orcinus73)
+    YUNG's Better Caves (Forge) (by YUNGNICKYOUNG)
+    Game Menu Mod Option [Forge] (by morimori0317)
+    Create Deco (by talrey)
+    FerriteCore (Forge) (by malte0811)
+    Decorative Blocks modded compat (by Evo_934)
+    Lazy DataFixerUpper(LazyDFU) [FORGE] (by Corgi_Taco)
+    Polymorph (Forge) (by TheIllusiveC4)
+    Callable Horses (by Tschipp)
+    Curious Armor Stands (by ochotonida)
+    Supplementaries (by MehVahdJukaar)
+    Quark (by Vazkii)
+    Serene Seasons (by TheAdubbz)
+    Just Enough Resources (JER) (by way2muchnoise)
+    Cosmetic Armor Reworked (by LainMI)
+    Farmer's Delight (by vectorwing)
+    Magnesium Extras (by TeamDeusVult)
+    Aquaculture 2 (by Shadowclaimer)
+    XP Tome (by bl4ckscor3)
+    Untamed Wilds (by raytrace82)
+    YUNG's Better Mineshafts (Forge) (by YUNGNICKYOUNG)
+    More Villagers (by SameDifferent)
+    Goblins & Dungeons (by superlord_9362)
+    Macaw's Bridges (by sketch_macaw)
+    Decorative Blocks (by stohun)
+    Clumps (by Jaredlll08)
+    YUNG's Better Strongholds (Forge) (by YUNGNICKYOUNG)
+    Recall [Forge] (by SeriousCreeper)
+    Fruitful (by team_aurora_modding)
+    Tree Felling [Forge] (by knightm3re)
+    Magnesium Dynamic Lights (by TeamDeusVult)
+    Quark Oddities (by Vazkii)
+    AutoRegLib (by Vazkii)
+    Enhanced Celestials - Blood, Blue, & Harvest (Super) Moons (by Corgi_Taco)
+    Blueprint (by TeamAbnormals)
+    Fast Leaf Decay (by olafskiii)
+    Autumnity (by TeamAbnormals)
+    Simply Tea! (by EpicSquid315)
+    Rhino (by LatvianModder)
+    Starlight x Create (by SirOMGitsYOU)
+    Curios API (Forge) (by TheIllusiveC4)
+    Global Data- & Resourcepacks (by JTK222)
+    Some Assembly Required (by ochotonida)
+    Chocolate Fix (by AlcatrazEscapee)
+    Prehistoric Fauna (by superlord_9362)
+    YUNG's API (Forge) (by YUNGNICKYOUNG)
+    Small Ships (by talhanation)
+    Flywheel (by jozufozu)
+    iChunUtil (by ohaiiChun)
+    More Overlays Updated (by RiDGo8)
+    Back Tools (by ohaiiChun)
+    Shutup Experimental Settings! (by Corgi_Taco)
+    Controlling (by Jaredlll08)
+    Furnish (by wouink_)
+    Selene Lib (by MehVahdJukaar)
+    Placebo (by Shadows_of_Fire)
+
