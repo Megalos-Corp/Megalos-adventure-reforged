@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "   ",
+      "YYY",
+      "Y Y"
+    ],
+    "key": {
+      "Y": {
+        "tag": "environmental:yak_hair"
+      }
+    },
+    "result": {
+      "item": "megalos_adventure:winter_suit_boots"
+    }
+  }

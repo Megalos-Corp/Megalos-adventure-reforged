@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " O ",
+    "S  ",
+    "   "
+  ],
+  "key": {
+    "O": {
+      "item": "create:copper_ingot"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "megalos_adventure:copper_knife"
+  }
+}

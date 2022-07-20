@@ -1,0 +1,28 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "minecraft:sugar"
+    },
+    {
+      "item": "upgrade_aquatic:blue_pickerelweed"
+    },
+    {
+      "item": "upgrade_aquatic:purple_pickerelweed"
+    },
+    {
+      "item": "minecraft:glass_bottle"
+    },
+    {
+      "fluid": "minecraft:water",
+      "nbt": {},
+      "amount": 250
+    }
+  ],
+  "results": [
+    {
+      "item": "abnormals_delight:pickerelweed_juice",
+      "count": 2
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+      {
+          "item": "megalos_adventure:raw_goldcrate"
+      }
+  ],
+  "result": {
+      "item": "megalos_adventure:raw_gold",
+      "count": 9
+  }
+}

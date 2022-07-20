@@ -1,0 +1,22 @@
+{
+	"type": "minecraft:crafting_shaped",
+	
+	"pattern":
+	[
+		"BBC",
+		"BAC",
+		"BCC"
+	],
+	
+	"key":
+	{
+		"A": { "item": "create:andesite_alloy" },
+		"B": { "item": "createaddition:overcharged_alloy" },
+		"C": { "item": "create:chromatic_compound" }
+		
+	},
+	
+	"result": { "item": "ring_of_attraction:ring_of_attraction",
+	"count": 1
+	}
+}

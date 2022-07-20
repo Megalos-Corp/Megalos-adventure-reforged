@@ -1,0 +1,20 @@
+{
+  "type": "farmersrespite:brewing",
+  "ingredients": [
+    {
+      "tag": "farmersrespite:tea_leaves"
+    },
+    {
+      "item": "druidcraft:lavender"
+    }
+  ],
+  "result": {
+    "item": "megalos_adventure:lavender_tea"
+  },
+  "container": {
+    "item": "minecraft:glass_bottle"
+  },
+  "experience": 0.35,
+  "brewingtime": 300,
+  "needWater": true
+}

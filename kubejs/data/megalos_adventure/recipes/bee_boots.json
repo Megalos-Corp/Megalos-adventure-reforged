@@ -1,0 +1,19 @@
+{
+  "type": "create:mechanical_crafting",
+  "pattern": [
+    "HBH",
+    "HBH"
+  ],
+  "key": {
+    "B": {
+      "item": "buzzier_bees:bee_bottle"
+    },
+    "H": {
+      "item": "minecraft:honeycomb"
+    }
+  },
+  "result": {
+    "item": "megalos_adventure:bee_suit_boots"
+  },
+  "acceptMirrored": true
+}

@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "YDY",
+    "DAD",
+    "YDY"
+  ],
+  "key": {
+    "Y": {
+      "item": "environmental:yak_hair"
+    },
+    "D": {
+      "item": "minecraft:blue_dye"
+    },
+    "A": {
+      "item": "minecraft:leather_helmet"
+    }
+  },
+  "result": {
+    "item": "megalos_adventure:winter_suit_helmet",
+    "count": 1
+  }
+}

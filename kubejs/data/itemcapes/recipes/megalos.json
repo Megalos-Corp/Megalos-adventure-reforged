@@ -1,0 +1,16 @@
+{
+    "type": "itemcapes:crafting_cape_shapeless",
+    "ingredients": [
+      {
+        "item": "itemcapes:cape"
+      },
+      {
+        "item": "minecraft:red_dye"
+      }
+    ],
+    "result": {
+      "item": "itemcapes:cape",
+      "count": 1,
+      "cape_type": "megalos"
+    }
+  }

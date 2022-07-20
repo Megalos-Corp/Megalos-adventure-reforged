@@ -45,7 +45,7 @@
 
 [entityspawning]
 	#Allow dreadfish to spawn?
-	dreadfish_spawn = false
+	dreadfish_spawn = true
 	#Determines the rarity of the dreadfish.
 	#Range: 1 ~ 100
 	dreadfish_weight = 40
@@ -63,13 +63,13 @@
 	beetle_spawn = true
 	#Determines the rarity of the beetle.
 	#Range: 1 ~ 200
-	beetle_weight = 30
+	beetle_weight = 10
 	#Minimum size of the group when spawned.
 	#Range: 1 ~ 200
 	beetle_min_group_size = 1
 	#Maximum size of the group when spawned.
 	#Range: 1 ~ 200
-	beetle_max_group_size = 1
+	beetle_max_group_size = 2
 	#List of biome types from the biome dictionary that the beetle can spawn in. Define as strings with "s and separate with a comma.
 	beetle_biomes = "CONIFEROUS, FOREST, JUNGLE, DENSE"
 	#List of biome types from the biome dictionary that beetles cannot spawn in. Separate with commas.

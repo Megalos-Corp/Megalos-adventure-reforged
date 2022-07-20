@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+      {
+          "item": "megalos_adventure:raw_lead_crate"
+      }
+  ],
+  "result": {
+      "item": "megalos_adventure:raw_lead",
+      "count": 9
+  }
+}

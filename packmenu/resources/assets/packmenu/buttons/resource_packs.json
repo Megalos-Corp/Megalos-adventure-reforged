@@ -1,0 +1,18 @@
+{
+	"x": -30,
+	"y": 110,
+	"width": 22,
+	"height": 22,
+	"texture": "packmenu:textures/gui/ressource.png",
+	"u": 0,
+	"v": 0,
+	"hoverU": 0,
+	"hoverV": 22,
+	"texWidth": 22,
+	"texHeight": 44,
+	"widgets": false,
+	"action": "OPEN_GUI",
+	"data": "RESOURCE_PACKS",
+	"anchor": "TOP_RIGHT",
+	"textXOffset": 5
+}

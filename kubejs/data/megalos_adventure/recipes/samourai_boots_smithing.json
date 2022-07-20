@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:smithing",
+    "base": {
+      "item": "minecraft:netherite_boots"
+    },
+    "addition": {
+      "item": "eidolon:arcane_gold_ingot"
+    },
+    "result": {
+      "item": "megalos_adventure:samourai_armor_boots"
+    }
+  }

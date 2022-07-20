@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " O ",
+    "S  ",
+    "   "
+  ],
+  "key": {
+    "O": {
+      "item": "create:zinc_ingot"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "megalos_adventure:zinc_knife"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "type": "create:mechanical_crafting",
+  "pattern": [
+    "ECB",
+    "   ",
+    "   "
+  ],
+  "key": {
+    "B": {
+      "item": "create:iron_sheet"
+    },
+    "C": {
+      "item": "createaddition:iron_rod"
+    },
+    "E": {
+      "item": "steampowered:cast_iron_sheet"
+    }
+  },
+  "result": {
+    "item": "megalos_adventure:spatula"
+  },
+  "acceptMirrored": true
+}

@@ -1,0 +1,17 @@
+{
+    "type": "create:filling",
+    "ingredients": [
+      {
+        "item": "megalos_adventure:waffle"
+      },
+      {
+        "fluidTag": "forge:chocolate",
+        "amount": 250
+      }
+    ],
+    "results": [
+      {
+        "item": "megalos_adventure:choco_waffle"
+      }
+    ]
+  }

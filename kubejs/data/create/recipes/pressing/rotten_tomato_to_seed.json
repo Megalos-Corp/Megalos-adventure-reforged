@@ -1,0 +1,13 @@
+{
+  "type": "create:pressing",
+  "ingredients": [
+    {
+      "item": "farmersdelight:rotten_tomato"
+    }
+  ],
+  "results": [
+    {
+      "item": "farmersdelight:tomato_seeds"
+    }
+  ]
+}

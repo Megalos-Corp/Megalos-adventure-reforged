@@ -1,0 +1,40 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "neapolitan:banana"
+    },
+    {
+      "item": "upgrade_aquatic:mulberry"
+    },
+    {
+      "item": "neapolitan:strawberries"
+    },
+    {
+      "item": "atmospheric:passionfruit"
+    },
+    {
+      "item": "environmental:cherries"
+    },
+    {
+      "item": "minecraft:melon_slice"
+    },
+    {
+      "item": "minecraft:apple"
+    },
+    {
+      "item": "minecraft:glass_bottle"
+    },
+    {
+      "fluid": "minecraft:water",
+      "nbt": {},
+      "amount": 250
+    }
+  ],
+  "results": [
+    {
+      "item": "megalos_adventure:multi_fruit_juice",
+      "count": 2
+    }
+  ]
+}

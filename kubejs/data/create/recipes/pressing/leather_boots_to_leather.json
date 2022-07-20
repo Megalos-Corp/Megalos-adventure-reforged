@@ -1,0 +1,13 @@
+{
+  "type": "create:pressing",
+  "ingredients": [
+    {
+      "item": "minecraft:leather_boots"
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:leather"
+    }
+  ]
+}

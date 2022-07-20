@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+      {
+          "item": "megalos_adventure:raw_zinc_crate"
+      }
+  ],
+  "result": {
+      "item": "megalos_adventure:raw_zinc",
+      "count": 9
+  }
+}

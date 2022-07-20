@@ -1,0 +1,20 @@
+{
+  "type": "create:mechanical_crafting",
+  "pattern": [
+    "CBB",
+    "   ",
+    "   "
+  ],
+  "key": {
+    "B": {
+      "item": "environmental:yak_hair"
+    },
+    "C": {
+      "item": "steampowered:cast_iron_sheet"
+    }
+  },
+  "result": {
+    "item": "megalos_adventure:lash"
+  },
+  "acceptMirrored": true
+}

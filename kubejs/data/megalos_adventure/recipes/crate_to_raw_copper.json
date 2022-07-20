@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+      {
+          "item": "megalos_adventure:raw_copper_crate"
+      }
+  ],
+  "result": {
+      "item": "megalos_adventure:raw_copper",
+      "count": 9
+  }
+}

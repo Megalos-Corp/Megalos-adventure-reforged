@@ -1,0 +1,18 @@
+{
+	"x": -130,
+	"y": 155,
+	"width": 96,
+	"height": 128,
+	"texture": "packmenu:textures/gui/bubble.png",
+	"u": 0,
+	"v": 0,
+	"hoverU": 0,
+	"hoverV": 128,
+	"texWidth": 96,
+	"texHeight": 128,
+	"widgets": false,
+	"action": "OPEN_URL",
+	"data": "https://gist.github.com/N3siOS/638038b3ed9c623f83de85365d4c2f19",
+	"anchor": "TOP_RIGHT",
+	"textXOffset": 5
+}

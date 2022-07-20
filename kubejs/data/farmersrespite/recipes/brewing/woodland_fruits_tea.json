@@ -1,0 +1,20 @@
+{
+  "type": "farmersrespite:brewing",
+  "ingredients": [
+    {
+      "tag": "farmersrespite:tea_leaves"
+    },
+    {
+      "tag": "mgls:woodland_fruits"
+    }
+  ],
+  "result": {
+    "item": "megalos_adventure:wooland_fruits_tea"
+  },
+  "container": {
+    "item": "minecraft:glass_bottle"
+  },
+  "experience": 0.35,
+  "brewingtime": 300,
+  "needWater": true
+}

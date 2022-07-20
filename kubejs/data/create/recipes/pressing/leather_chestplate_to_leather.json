@@ -1,0 +1,13 @@
+{
+  "type": "create:pressing",
+  "ingredients": [
+    {
+      "item": "minecraft:leather_chestplate"
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:leather"
+    }
+  ]
+}

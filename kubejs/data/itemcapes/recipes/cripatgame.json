@@ -1,0 +1,27 @@
+{
+  "type": "itemcapes:crafting_cape_shaped",
+  "pattern": [
+    " Y#",
+    " YX",
+    " YC"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:red_dye"
+    },
+    "X": {
+      "item": "itemcapes:cape"
+    },
+    "Y": {
+      "item": "environmental:yak_hair"
+    },
+    "C": {
+      "item": "minecraft:orange_dye"
+    }
+  },
+  "result": {
+    "item": "itemcapes:cape",
+    "count": 1,
+    "cape_type": "cripatgame"
+  }
+}
