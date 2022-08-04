@@ -6,8 +6,8 @@ onEvent('item.tags', event => {
     // Remove hidden rope for supplementaries tag
     event.remove('supplementaries:ropes', ['druidcraft:rope', 'supplementaries:rope', 'quark:rope'])
     // Add Music Disc of Megalos ressource to minecraft:music_discs tag
-    event.remove('minecraft:music_discs', ['megalos_adventure:diggy_hole_disc', 'megalos_adventure:thune_disc', 'megalos_adventure:halloween_disc', 'megalos_adventure:escape_disc', 'megalos_adventure:ffvi_race_theme_disc', 'megalos_adventure:ffvi_electric_chocobo_disc'])
-    event.remove('minecraft:creeper_drop_music_discs', ['megalos_adventure:diggy_hole_disc', 'megalos_adventure:thune_disc', 'megalos_adventure:halloween_disc', 'megalos_adventure:escape_disc', 'megalos_adventure:ffvi_race_theme_disc', 'megalos_adventure:ffvi_electric_chocobo_disc'])
+    event.add('minecraft:music_discs', ['megalos_adventure:diggy_hole_disc', 'megalos_adventure:thune_disc', 'megalos_adventure:halloween_disc', 'megalos_adventure:escape_disc', 'megalos_adventure:ffvi_race_theme_disc', 'megalos_adventure:ffvi_electric_chocobo_disc'])
+    event.add('minecraft:creeper_drop_music_discs', ['megalos_adventure:diggy_hole_disc', 'megalos_adventure:thune_disc', 'megalos_adventure:halloween_disc', 'megalos_adventure:escape_disc', 'megalos_adventure:ffvi_race_theme_disc', 'megalos_adventure:ffvi_electric_chocobo_disc'])
     //Add Milk bottle of Neapolitan to forge:milk/milk_bottle tag
     event.add('forge:milk/milk_bottle', 'neapolitan:milk_bottle')
     event.add('forge:rollmatout/bottle_foods', 'neapolitan:milk_bottle')
@@ -31,4 +31,8 @@ onEvent('item.tags', event => {
     event.add('quark:revertable_chest', ['bamboo_blocks:bamboo_chest', 'upgrade_aquatic:driftwood_chest', 'upgrade_aquatic:river_chest', 'bayou_blues:cypress_chest', 'endergetic:poise_chest', 'prehistoricfauna:metasequoia_chest', 'prehistoricfauna:araucaria_chest', 'prehistoricfauna:liriodendrites_chest', 'prehistoricfauna:zamites_chest', 'prehistoricfauna:protopiceoxylon_chest', 'prehistoricfauna:protojuniperoxylon_chest', 'prehistoricfauna:heidiphyllum_chest'])
     // unificate apple
     event.add('mgls:apple_fruits', ['minecraft:apple', 'byg:green_apple'])
+    //Unificate seeds
+    event.add('forge:seeds', ['culturaldelights:cucumber_seeds', 'culturaldelights:eggplant_seeds', 'culturaldelights:white_eggplant_seeds', 'environmental:cattail_seeds', 'farmersrespite:tea_seeds', 'chococraft:gysahl_green_seeds'])
+    //add items to cookie Jar
+    event.add('supplementaries:cookies', ['megalos_adventure:waffle', 'megalos_adventure:tasty_waffle', 'megalos_adventure:choco_waffle', 'neapolitan:strawberry_scones'])
   })

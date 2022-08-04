@@ -119,5 +119,12 @@ onEvent('recipes', event => {
 	event.remove({id: 'bayou_blues:crafting/gooseberry_juice'})
 	// Remove duplicate honey apple
 	event.remove({id: 'buzzier_bees:honey/honey_apple'})
+	//Remove duplicate environmental Apple pie
+	event.remove({id: 'environmental:misc/apple_pie'})
+	//Remove cooking osmunda tea recipe
+	event.remove({id: 'pre_delight:cooking_osmunda_tall_tea'})
+	event.remove({id: 'pre_delight:cooking_osmunda_tea'})
+	//remove base recipe for lattice
+	//event.remove({id: 'decorative_blocks:lattice'})
 
 })

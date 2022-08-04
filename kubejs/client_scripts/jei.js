@@ -143,4 +143,8 @@ onEvent('jei.hide.items', event => {
     event.hide([
         'buzzier_bees:honey_apple'
     ])
+    //Hide Environmental Apple pie
+    event.hide([
+        'environmental:apple_pie'
+    ])
 })
